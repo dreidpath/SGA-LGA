@@ -9,9 +9,17 @@ The possible percentile classes are:
 
 When processing a dataframe, the entire dataframe is returned with an additional column (ga_class)
 
-### Note
+# Installation
+You can install the package directly from GitHub using the devtools package
+
+```
+install.packages("devtools") # assuming you have not already
+devtools::install_github("dreidpath/SGA-LGA")
+```
+
+# Note
 The classifications are based on US data, using the tables published by ~Talge et al (2014)~
 
-### Reference
+# Reference
 Talge NM, Mudd LM, Sikorskii A, Basso O.  United States birth weight reference corrected for implausible gestational age estimates. __Pediatrics__; 2014 May;133(5):844-53. doi: 10.1542/peds.2013-3285. https://www.ncbi.nlm.nih.gov/pubmed/24777216
 
