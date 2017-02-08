@@ -1,0 +1,16 @@
+Package: sgalgaR
+Type: Package
+Title: A classifier of small or large for gestational age (SGA or LGA) neonates. 
+Year: 2017 
+Version: 0.1.0
+Authors@R: person("Daniel D.", "Reidpath", email = "daniel.reidpath@monash.edu", role = c("aut", "cre"))
+Maintainer: The package maintainer <daniel.reidpath@monash.edu>
+Description: Calculates whether a birthweight is Small or Large for Gestational Age (SGA or LGA) given the sex and gestational age of the neonate.
+   The cutoffs are based on tables poublished in:
+   Talge NM, Mudd LM, Sikorskii A, Basso O. Pediatrics. 2014 May;133(5):844-53. doi: 10.1542/peds.2013-3285.)[https://www.ncbi.nlm.nih.gov/pubmed/24777216]
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr (>= 0.5.0)
+RoxygenNote: 6.0.1
