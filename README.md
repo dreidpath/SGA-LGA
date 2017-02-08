@@ -18,7 +18,7 @@ devtools::install_github("dreidpath/SGA-LGA")
 ```
 
 # Note
-The classifications are based on US data, using the tables published by ~Talge et al (2014)~
+The classifications are based on US data, using the tables published by *Talge et al (2014)*
 
 # Reference
 Talge NM, Mudd LM, Sikorskii A, Basso O.  United States birth weight reference corrected for implausible gestational age estimates. __Pediatrics__; 2014 May;133(5):844-53. doi: 10.1542/peds.2013-3285. https://www.ncbi.nlm.nih.gov/pubmed/24777216
